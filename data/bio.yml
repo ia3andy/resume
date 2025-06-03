@@ -1,0 +1,123 @@
+- title: Experience
+  items:
+  - header: "Feb 2018 to Present · 7 yrs 4 mos"
+    title: "Principal Software Engineer · Red Hat · France"
+    content: |
+      Principal Software Engineer at Red Hat, focused on developer experience and innovation within the Quarkus team.  
+      I work on making Java relevant in modern, cloud-native environments through tools, frameworks, and strategic architecture.  
+      My contributions span from core development to community engagement.
+
+      Highlights:
+      - Core contributor to the [Quarkus](https://quarkus.io) framework, helping evolve Java into a reactive, Kubernetes-native platform.
+      - Built Roq, a static site generator powered by Quarkus and Qute, combining developer simplicity with modern performance.
+      - Speaker at international conferences (Red Hat Summit, JNation, JUGs, JCON, Riviera Dev), advocating for Java in the web ecosystem.
+      - Creator of educational content and demos, including Quarkus Insights webinars and blogs, to help developers adopt cloud-first paradigms.
+      - Contributor to Java-based RAG (Retrieval-Augmented Generation) and AI developer tools using LangChain4j and beyond.
+
+      **Technologies:** Java, Quarkus, Qute, Kubernetes, Dev Services, REST, Reactive Programming, GraalVM, Maven, GitHub Actions, LangChain4j, Static Site Generation, Developer Tooling
+
+  - header: "Sep 2014 to Dec 2017 · 3 yrs 4 mos"
+    title: "Senior Java Developer · Neotys (a Tricentis company) · Gemenos"
+    content: |
+      Migration of a standalone performance testing application to a SaaS web application.  
+      Design & implementation of a distributed backend infrastructure using Vertx and RxJava.  
+      In charge of building big data aperiodic performance time series optimized storage and live aggregation services using MongoDB.  
+      Development of a web solution in charge of Application Performance Monitoring.  
+      Design and implementation of a cross-product bridge to connect Neotys applications.  
+      Defensive programming, strong multithreading and concurrency systems.  
+      Team development project with Scrum methodology.  
+      Pair programming.
+
+      **Technologies:** Microservices, Asynchronous, Big Data, Aggregation, Time Series, Java 8, Vertx, RxJava, Guice, Guava, REST, Vaadin, Futures, MongoDB, Maven, Jenkins, Sonar, Git, Gerrit
+
+  - header: "Jun 2013 to Sep 2014 · 1 yr 4 mos"
+    title: "Co-founder · Brozap LTD"
+    content: |
+      I co-created a mobile application company. Some of our applications were registered on the App Store and Google Play.  
+      This experience was really complete, giving me the opportunity to manage the complete life cycle of mobile products: market analysis, benchmarking, project management, specifications, development, marketing, accounting, legal.  
+      
+      **Products:**
+      - *Chack:* A social rock-paper-scissors challenges game.
+      - *Wazam:* A web/mobile app to find the best events around you.
+
+      Featured in press: Clubic, MacG, Korben, Frandroid, …
+
+      **Technologies:** REST API, Spring, Jersey, MongoDB, Maven, JavaScript/CoffeeScript, HTML5, PhoneGap/Cordova, Objective-C, Swift, AngularJS, RequireJS, jQuery, Less, Grunt, Jenkins, Git
+
+  - header: "Jul 2012 to Jun 2013 · 1 yr"
+    title: "Full Stack Developer · Creative Licence Digital · Manly"
+    content: |
+      Main developer of JRCigars e-commerce web application backend.  
+      Implementation of a performance cache for Node.js applications.  
+      Development of multiple mobile games and applications.  
+      Built an analytics aggregation system using MongoDB.  
+      Team development project with Scrum methodology.  
+      English-speaking work environment.
+
+      **Technologies:** Node.js/Express, JavaScript/CoffeeScript, HTML5, PhoneGap/Cordova, BackboneJS, RequireJS, jQuery, MongoDB, Git
+
+  - header: "Jan 2011 to Jun 2012 · 1 yr 6 mos"
+    title: "Java Developer · ACP QUALIFE · Aix-En-Provence Area, France"
+    content: |
+      Developed features for a financial solution simplifying e-banking site creation, operation, and maintenance.  
+      Designed and built an alert rule manager with a lexer/compiler to parse expressions and compute dynamic fields.  
+      Optimized database performance: remodeling, indexing, EHCache usage, and query refactoring.
+
+      **Technologies:** Java, Flex, PureMVC, Eclipse, Hibernate, Spring, SVN, Maven, Hudson
+
+  - header: "Jul 2010 to Dec 2010 · 6 mos"
+    title: "Architect, Developer · BCGE"
+    content: |
+      Developed a workflow to generate banking valuations.  
+      Monitored and improved data quality, valuation logic, and document production.  
+      Built features for fund selection, deal validation (4-eyes principle), signatory insertion, and automated email/fax processes.
+
+      **Technologies:** Java, JSF, Hibernate, JBoss Seam, JBPM, Oracle, Eclipse
+
+  - header: "Jan 2010 to Dec 2010 · 1 yr"
+    title: "Software Engineer · SERIAL SA · Geneva Area, Switzerland"
+    content: |
+      Worked as a consultant on a wide variety of projects across client companies in different sectors.  
+      Gained extensive experience on multiple technical stacks and business contexts.
+
+  - header: "Jun 2010 · 1 mo"
+    title: "Software Engineer · UBP (Union Bancaire Privée) · Geneva Area, Switzerland"
+    content: |
+      Contributed to completing a critical internal banking application under tight deadlines.  
+      Application included fund selection, validation workflows, signatory management, and document archiving.
+
+      **Technologies:** ASP.NET, C#, VB.NET, Silverlight, Visual Studio 2010, TFS, HTML/JS, Oracle 10
+
+  - header: "Jan 2010 to May 2010 · 5 mos"
+    title: "Java Developer · Eglise Protestante de Genève · Geneva Area, Switzerland"
+    content: |
+      Developed workflow processes using VDoc.  
+      Created VDoc API-based components to handle complex form fields.  
+      Integrated AS400 DB2 via SQL Server linked databases.  
+      Extended a complex web application built with JBoss Seam.
+
+      **Technologies:** JBoss Seam, JSF, RichFaces, Hibernate, VDoc, BIRT, DB2, SQL Server, Access
+
+  - header: "Jan 2009 to Jul 2009 · 7 mos"
+    title: "Developer · Ingenico"
+    content: |
+      Designed, specified, developed, and validated an Eclipse Plug-in for font character editing for payment terminals.  
+      Worked in a collaborative team environment.
+
+      **Technologies:** Java, Eclipse Plug-in API, JFlex, JCup, SVN
+- title: Education
+  items:
+  - header: "2009 - 2010"
+    title: "KTH Royal Institute of Technology"
+    content: |
+      Diplôme d'ingénieur, Information Technology
+
+  - header: "2007 - 2010"
+    title: "Grenoble INP Esisar"
+    content: |
+      Engineer's degree, Information Technology
+
+  - header: "2005 - 2007"
+    title: "DUT Réseaux et Télécoms"
+    content: |
+      Dut, Réseaux et Télécoms
