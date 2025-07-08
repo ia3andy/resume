@@ -18,7 +18,10 @@
   - header: "Before 2018"
     title: "Jedi Academy"
     content: |
-      Trained in the ancient arts of the Force, I showed early promise — until I `git push --force`'d the Jedi Codebase.  
-      Breaking Yoda’s lightsaber firmware was the last straw. I was... *politely* shown the exit.
+      Trained in the ancient arts of the Force, I showed early promise — until I ran
+      ```
+      git push --force  
+      ```
+      making Yoda’s lightsaber look like a rainbow. I was... *politely* shown the exit.
       Disgraced but not defeated, I embraced the dark side — and discovered my true destiny with Quarkus.
       Why stay restrained when you can wield the full power of the Quarkus Force?
